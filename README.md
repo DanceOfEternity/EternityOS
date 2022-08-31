@@ -17,11 +17,14 @@ Microsoft Store still working (Only on Stable v1.0)
 
 Xbox services working (includes game bar etc.) (Only on Stable v1.0)
 
+------------------------------------------
 Features (versions after Beta Build v1.0):
+------------------------------------------
 
 -------------------------------------------------------------------------------------
 Warning: Windows Search may not work in case it doesnt work you can install openshell
 -------------------------------------------------------------------------------------
+
 Added Fr33thy's ALL tweaks
 
 Added Fr33thy's post install tweaks (modified)
